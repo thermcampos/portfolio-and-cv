@@ -4,7 +4,7 @@ A static HTML resume website with dual-language support (English and Brazilian P
 
 # Live page
 
-Please see it here: https://rmcampos.github.io/portfolio-and-cv/
+Please see it here: https://thermcampos.github.io/portfolio-and-cv/
 
 ## Overview
 
