@@ -19,7 +19,7 @@ docker run --user "$(id -u):$(id -g)" \
   ghcr.io/rendercv/rendercv:latest render "Ricardo_Campos_CV.yaml"
 ```
 
-## Fix permissions
+## Fix permissions - USE THIS ONE BELOW, NOT THE ONE ABOVE
 
 ```bash
 chmod 777 "$PWD"

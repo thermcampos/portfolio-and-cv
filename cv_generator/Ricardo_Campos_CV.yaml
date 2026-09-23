@@ -10,27 +10,35 @@ cv:
     - network: LinkedIn
       username: ricardompcampos
     - network: GitHub
-      username: RMCampos
+      username: thermcampos
 
   sections:
     summary:
-      - "Full-stack software engineer with 10+ years of experience, specializing in backend development and RESTful APIs since 2018. Deep expertise in Java, Spring Boot, GraalVM, and SQL databases, with solid frontend skills in React, Angular, and TypeScript. Passionate about scalable, maintainable systems and clean architecture. Experienced with cloud-native DevOps tools including Docker, Kubernetes, Jenkins, GitHub Actions, Datadog, OpenShift, AWS, and Azure."
+      - "Full-stack backend-oriented engineer with 13 years of experience. Deep expertise in the Java ecosystem, SQL, React, and TypeScript. Highly motivated, proactive, and delivery-oriented. My recent experiences includ cloud-native apps, DevOps, monitoring, and cloud."
     
     experience:
+      - company: Workiva
+        position: Senior Backend Engineer
+        start_date: 2026-04
+        end_date: present
+        location: Ames, IA
+        summary: "At Workiva I'm working as a Fullstack Kotlin TypeScript engineer, in the core sustainability reporting team. Workiva is much well estabilished, and has a mature internal tooling. My tasks usually includes refactoring, bugs, and troubleshooting."
+        highlights:
+          - "Upgraded Frameworks Content versions"
+          - "Refactored removing deprecated dependencies"
+          - "Improved part of the messaging system"
       - company: Accela
         position: Senior Backend Java Engineer
         start_date: 2024-10
-        end_date: present
-        location: San Ramon, CA, USA - Remote
-        summary: "Platform and backend developer responsible for building automation tooling, improving developer experience, and maintaining core back-office services. Led automation initiatives using Docker, Kubernetes, and CI/CD pipelines while resolving critical production issues in Java/Spring Boot microservices and legacy EJB applications. Created cross-platform scripts, established deployment patterns for Azure AKS, and drove architectural improvements for system stability. Collaborated across teams providing technical guidance and documentation."
+        end_date: 2026-04
+        location: San Ramon, CA
+        summary: "At Accela I worked as a Senior Java engineer, leading discussions, agile ceremonies, code reviews, all kind of code tasks, and documentation. This position required a lot of communication and alignment with other teams, coordinating deployments, runbooks, and scripting. While there I worked in the platform and admin teams."
         highlights:
-          - "Led automation initiatives to streamline development workflows and deployments"
           - "Diagnosed and resolved critical production bugs in REST/EJB services on WildFly"
-          - "Developed Spring Boot microservices with Apache Camel for async processing"
-          - "Created CI/CD pipelines using GitHub Actions and Jenkins"
+          - "Developed a Spring Boot microservice using Apache Camel, async processing and 3rd-party integration"
           - "Implemented architectural and performance improvements in legacy Java codebases"
           - "Provided technical guidance and unblocked teams across the organization"
-          - "Wrote comprehensive documentation including troubleshooting and deployment guides"
+          - "Wrote comprehensive documentation for troubleshooting and deployment guides"
       - company: Encora
         position: Technical Lead
         start_date: 2021-08
@@ -85,7 +93,7 @@ cv:
         location: remote
         summary: Personal project build with Spring, GraalVM, and React to manage tasks and notes
         
-      - name: '[Bean Score](https://beanscore.darkroasted.vps-kinghost.net/)'
+      - name: 'Bean Score'
         start_date: 2025-03
         end_date: present
         location: remote
@@ -93,11 +101,11 @@ cv:
     
     skills:
       - label: Programming Languages
-        details: Java, JavaScript, TypeScript, SQL
+        details: Java, Kotlin, JavaScript, TypeScript, SQL
       - label: Frameworks & Tools
-        details: Spring Boot, Spring WebFlux, Quarkus, GraalVM, React, Angular, Docker, Apache Camel, Keycloak, FusionAuth
+        details: Spring Boot, Quarkus, Javalin, GraalVM, React, Docker, Keycloak, FusionAuth
       - label: Devops & Observability
-        details: Jenkins, GitHub Actions, Kubernetes, Prometheus, Grafana, ELK Stack
+        details: Jenkins, GitHub Actions, Kubernetes, Prometheus, Grafana, Datadog, Splunk
       - label: Cloud Platforms
         details: AWS, Azure, RedHat OpenShift
 design:
@@ -266,7 +274,7 @@ locale:
   #   - November
   #   - December
 settings:
-  current_date: '2026-02-13'
+  current_date: '2026-09-20'
   render_command:
     design:
     locale:
