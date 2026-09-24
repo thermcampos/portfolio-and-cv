@@ -86,13 +86,6 @@
 )
 
 
-#grid(
-  columns: (auto, 1fr),
-  column-gutter: 0cm,
-  align: horizon + left,
-  [#pad(left: 0.4cm, right: 0.4cm, image("photo.jpg", width: 3.5cm))
-],
-  [
 = Ricardo Campos
 
   #headline([Full stack Engineer | Java Specialist | Cloud | Observability])
@@ -103,8 +96,6 @@
   [#link("tel:+55-47-99169-9982", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[(47) 99169-9982]]],
   [#link("https://linkedin.com/in/ricardompcampos", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[ricardompcampos]]],
   [#link("https://github.com/thermcampos", icon: false, if-underline: false, if-color: false)[#connection-with-icon("github")[thermcampos]]],
-)
-  ]
 )
 
 

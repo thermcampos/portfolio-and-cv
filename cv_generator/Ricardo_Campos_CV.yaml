@@ -4,7 +4,7 @@ cv:
   headline: Full stack Engineer | Java Specialist | Cloud | Observability
   location: Joinville, Brazil
   email: ricardompcampos@gmail.com
-  photo: photo.jpg
+  #photo: photo.jpg
   phone: +55 47 99169-9982
   social_networks:
     - network: LinkedIn
